@@ -6,6 +6,9 @@ This project is a classic **Pong game** implemented in **Python** using the **Py
 
 To start playing, simply run the ```Pong.py``` file, and you’re ready to challenge a friend in this timeless two-player game.
 
+
+<img width="812" height="640" alt="Screenshot 2025-09-05 at 17 44 11" src="https://github.com/user-attachments/assets/bc284174-05d8-4674-bf44-6557546b6ede" />
+
 ### Features
 
 - **1 vs 1 Gameplay:** Two players can play against each other locally on the same computer.
